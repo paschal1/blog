@@ -1,0 +1,37 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 
+p{
+  color: black;
+  /* color: #505458; */
+  font-family: 'Hind Madurai', sans-serif;
+  margin: 10px 0;
+}
+#postimage{
+    background: blue;
+}
+.follow-ava{
+border: unset;
+}
+/* .logo {
+    color: #ffffff !important;
+    font-size: 24px;
+    text-transform: uppercase;
+    font-family: 'Hind Madurai', sans-serif;
+    font-weight: 600;
+    letter-spacing: 1px;
+    line-height: 70px;
+}
+
+.logo span span {
+    color: #7fc1fc;
+} */
