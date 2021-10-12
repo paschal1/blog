@@ -1,0 +1,6 @@
+ 
+ <? 
+foreach ($possible_error as $field_error){
+    echo $field_error[0];   
+}              
+?>

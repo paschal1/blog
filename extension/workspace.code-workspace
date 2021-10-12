@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Xtragist\\admin"
+		},
+		{
+			"path": "..\\..\\Xtragist\\class"
+		},
+		{
+			"path": "..\\..\\Xtragist\\config"
+		}
+	],
+	"settings": {}
+}
